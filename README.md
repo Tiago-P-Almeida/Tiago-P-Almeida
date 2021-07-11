@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tiago-P-Almeida, I study data analytics to improve healthcare delivery and patient care.
+- 👋 Hi, I’m @Tiago-P-Almeida, I study data analytics to improve healthcare delivery and patient care using real-world evidence, both in biomedical data and Supply Chain.
 I'm passionate about bringing people together, fascinated about the Seventh Art and I'm a ukulele noise-maker.
 
 - 📫 How to reach me: tiagopaggi@gmail.com
